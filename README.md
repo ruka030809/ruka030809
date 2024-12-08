@@ -1,11 +1,12 @@
 ## Hi there 👋
 
+
+<!--
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
 [![ruka030809's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruka030809&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<!--
 **ruka030809/ruka030809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
